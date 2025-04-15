@@ -24,8 +24,10 @@ What does your application do?
 Who are the group memebers? If you can't include a video stream from all members please include a photo in the presentation
 Demo your application
 Copy of the presentation
-Grading Policy
 
+Grading Policy:
 Presentation - 50 Points
 Code/Design - 25 Points
 Project Participation - 25 Points For a grand total of 100 Points.
+
+Our project uses Python and the "socket" and "threading" packages to utilize multiple clients that interact inside of a chatroom. We use VSCode as the IDE, GitHub as Version Control, and Python as the programming language.
